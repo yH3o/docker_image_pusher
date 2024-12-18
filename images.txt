@@ -1,1 +1,1 @@
-harbor-pub.nuanwainfo.com/base/nova-python:3.10-uwsgi
+python:3.10-uwsgi
